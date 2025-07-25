@@ -1,0 +1,14 @@
+
+
+/* @theme {
+  --font-noto: "Noto Serif", serif;
+  --font-inter: "Inter", sans-serif;
+} */
+
+.noto{
+    font-family: "Noto Serif", serif;
+}
+
+.inter{
+    font-family:  "Inter", sans-serif;;
+}
